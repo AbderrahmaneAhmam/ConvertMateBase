@@ -1,0 +1,40 @@
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\bin\Debug\Calc.exe.config
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\bin\Debug\Calc.exe
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\bin\Debug\Calc.pdb
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\obj\Debug\Calc.exe
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\obj\Debug\Calc.pdb
+D:\doucument et vedio de programmation\projet visual studio\Calc\Calc\obj\Debug\Calc.Form2.resources
+C:\Users\Abdo\Desktop\Calc\Calc\bin\Debug\MathBase.exe.config
+C:\Users\Abdo\Desktop\Calc\Calc\bin\Debug\MathBase.exe.manifest
+C:\Users\Abdo\Desktop\Calc\Calc\bin\Debug\MathBase.application
+C:\Users\Abdo\Desktop\Calc\Calc\bin\Debug\MathBase.exe
+C:\Users\Abdo\Desktop\Calc\Calc\bin\Debug\MathBase.pdb
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\Calc.Form2.resources
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\MathBase.Properties.Resources.resources
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\MathBase.exe.manifest
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\MathBase.application
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\MathBase.exe
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\MathBase.pdb
+C:\Users\Abdo\Desktop\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\Projet\Application Desktop\Calc\Calc\bin\Debug\MathBase.exe.config
+D:\Projet\Application Desktop\Calc\Calc\obj\Debug\MathBase.exe
+D:\Projet\Application Desktop\Calc\Calc\obj\Debug\MathBase.pdb
+D:\Projet\Application Desktop\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\Projet\Application Desktop\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\Projet\Application Desktop\Calc\Calc\obj\Debug\Calc.Form2.resources
+D:\Projet\Application Desktop\Calc\Calc\obj\Debug\MathBase.Properties.Resources.resources
+D:\Projet\Application Desktop\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Smart\Desktop\Calc\Calc\bin\Debug\MathBase.exe.config
+C:\Users\Smart\Desktop\Calc\Calc\obj\Debug\MathBase.exe
+C:\Users\Smart\Desktop\Calc\Calc\obj\Debug\MathBase.pdb
+C:\Users\Smart\Desktop\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Smart\Desktop\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Smart\Desktop\Calc\Calc\obj\Debug\Calc.Form2.resources
+C:\Users\Smart\Desktop\Calc\Calc\obj\Debug\MathBase.Properties.Resources.resources
+C:\Users\Smart\Desktop\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
